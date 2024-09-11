@@ -1,0 +1,34 @@
+body {
+  background-color: rgba(0, 0, 0, 0.514);
+}
+h1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: blue;
+  }
+  
+  p {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: blue;;
+  }
+
+  img {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  }
+
+  u1 {
+    Text-align: center
+  }
+  
+  button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 0 auto;
+  }
